@@ -1,4 +1,4 @@
-module github.com/dekbadnerd/cinema
+module github.com/dekbadnerd/shortly-link
 
 go 1.22.6
 
