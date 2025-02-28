@@ -62,8 +62,8 @@ The backend will run on `http://localhost:8000`
 #### Frontend
 
 ```sh
-cd frontend
-npm start
+cd frontend/shortly-link
+npm run dev
 ```
 
 The frontend will run on `http://localhost:3000`
