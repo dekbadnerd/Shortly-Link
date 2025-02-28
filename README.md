@@ -16,7 +16,7 @@ Shortly - Link is a URL shortening project developed using **Golang**, **Gin**, 
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/shortlylink.git
+git clone https://github.com/dekbadnerd/shortlylink.git
 cd shortlylink
 ```
 
